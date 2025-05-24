@@ -1,5 +1,7 @@
 # Titanic Survival Analysis
 
+# Sample project
+
 A beginner-friendly data analysis project using the Titanic dataset from Kaggle.
 
 ## Objective
